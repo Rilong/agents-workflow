@@ -1,0 +1,10 @@
+{
+    "env": {
+        "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1"
+    },
+    "enabledMcpjsonServers": ["laravel-boost", "context7"],
+    "permissions": {
+        "deny": ["Read(./.env)"]
+    },
+    "model": "opusplan"
+}
