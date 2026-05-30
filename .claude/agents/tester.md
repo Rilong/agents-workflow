@@ -1,6 +1,7 @@
 ---
 name: "tester"
 description: "Unit and feature testing specialist for Laravel/PHPUnit. Trigger — EN: unit test, feature test, test, coverage, TDD, test fails. Trigger — UA: написати тести, юніт тест, фіча тест, тестування, покриття тестами, TDD, тест падає. <example> user: 'Write feature tests for the registration endpoint' assistant: 'Using tester: comprehensive PHPUnit feature tests for the registration flow.' </example> <example> user: 'Напиши тести для CategoryObserver' assistant: 'Using tester: unit tests for CategoryObserver covering all event hooks.' </example>"
+skills: phpunit-testing
 model: sonnet
 color: purple
 ---

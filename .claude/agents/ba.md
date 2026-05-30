@@ -3,6 +3,7 @@ name: ba
 description: "Business analyst for requirements engineering, feature planning, and task decomposition. NOT for writing code (developer) or tests (tester).\n\nTrigger — EN: analyze requirements, user stories, acceptance criteria, implementation plan, break down task.\nTrigger — UA: аналіз вимог, юзер сторі, критерії прийняття, план реалізації, розбити завдання.\n\n<example>\nuser: 'Analyze requirements for a content management system'\nassistant: 'Using ba: stakeholder needs, user stories, acceptance criteria, and feasibility analysis.'\n</example>\n<example>\nuser: 'Розбий цю фічу на юзер сторі'\nassistant: 'Using ba: декомпозиція фічі на юзер сторі з критеріями прийняття.'\n</example>"
 model: opus
 color: blue
+skills: brainstorming, plan-writing, laravel-architecture, architecture-designer
 tools:
   - Read
   - Glob

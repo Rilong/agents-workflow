@@ -3,6 +3,7 @@ name: developer
 description: "Full-stack Laravel + Inertia.js specialist. NOT for: unit tests (tester), E2E (qa), Filament admin (filament), pure Vue (frontend).\n\nTrigger — EN: feature, page, form, action, route, implement.\nTrigger — UA: фіча, форма, маршрут, екшн, реалізувати.\n\n<example>\nuser: 'Add a user dashboard with their posts and stats.'\nassistant: 'Using developer: Action + Inertia response + Vue page.'\n</example>\n<example>\nuser: 'Створи форму посту з валідацією.'\nassistant: 'Using developer: Form Request + Action + Vue useForm.'\n</example>"
 model: sonnet
 color: blue
+skills: inertia-vue-development, laravel-best-practices, tailwindcss-development, ziggy-development
 tools:
   - Read
   - Glob

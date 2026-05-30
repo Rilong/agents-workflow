@@ -119,7 +119,7 @@ User request
 
 - Summarise what changed at a high level (no line-by-line narration).
 - List any outstanding follow-ups or out-of-scope items.
-- Do not commit or push — follow `.claude/rules/git-operations.md`.
+- Do not commit or push — follow use the `git-commit-messages` skill to draft a commit message, and ask for user approval before committing or pushing.
 
 ---
 
