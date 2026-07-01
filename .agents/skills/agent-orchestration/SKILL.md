@@ -36,12 +36,12 @@ Violation of this rule means the pipeline has failed.
 
 ## Available Agents
 
-| Agent       | Role                                       | Model  |
-|-------------|--------------------------------------------|--------|
-| `ba`        | Requirements, user stories, phased plan    | opus   |
-| `devil`     | Read-only critic of `ba`'s plan            | opus   |
-| `developer` | Implements Laravel + Inertia.js features   | sonnet |
-| `tester`    | Writes PHPUnit tests (unit + feature)      | sonnet |
+| Agent       | Role                                     |
+|-------------|------------------------------------------|
+| `ba`        | Requirements, user stories, phased plan  |
+| `devil`     | Read-only critic of `ba`'s plan          |
+| `developer` | Implements Laravel + Inertia.js features |
+| `tester`    | Writes PHPUnit tests (unit + feature)    |
 
 ## Phase Summary
 
