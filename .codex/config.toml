@@ -1,0 +1,6 @@
+model = "5.4"
+approval_policy = "untrusted"
+[mcp_servers.laravel-boost]
+command = "vendor/bin/sail"
+args = ["artisan", "boost:mcp"]
+cwd = "/Users/romanhnatiuk/Projects/PET/PHP/mwc-new"
