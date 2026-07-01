@@ -1,6 +1,7 @@
 name = "developer"
 model = "gpt-5.4"
 model_reasoning_effort = "medium"
+sandbox_mode = "workspace-write"
 description = """
 Full-stack Laravel + Inertia.js specialist. NOT for: unit tests (tester), E2E (qa), Filament admin (filament), pure Vue (frontend).
 

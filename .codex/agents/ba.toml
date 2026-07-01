@@ -1,6 +1,7 @@
 name = "ba"
 model = "gpt-5.5"
 model_reasoning_effort = "high"
+sandbox_mode = "read-only"
 description = """
 Business analyst for requirements engineering, feature planning, and task decomposition. NOT for writing code (developer) or tests (tester).
 

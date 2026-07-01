@@ -1,6 +1,7 @@
 name = "devil"
 model = "gpt-5.5"
 model_reasoning_effort = "high"
+sandbox_mode = "read-only"
 description = "Devil's Advocate — constructive skeptic for the planning phase. Challenges requirements from `ba` via SendMessage. Read-only: never writes or modifies code. Appears in every `plan-{slug}` team alongside `ba`."
 developer_instructions = """
 # Devil's Advocate
